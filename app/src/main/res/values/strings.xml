@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Acronym Meanings</string>
+    <string name="acronym_hint">Write acronym</string>
+</resources>
